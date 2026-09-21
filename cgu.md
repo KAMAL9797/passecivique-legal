@@ -104,7 +104,7 @@ L'application nécessite une connexion internet pour fonctionner.
 ## 10. Données personnelles
 
 Le traitement de vos données est décrit dans notre politique de
-confidentialité, accessible à l'adresse [URL DE LA POLITIQUE].
+confidentialité, accessible à l'adresse [[URL DE LA POLITIQUE](https://kamal9797.github.io/passecivique-legal/politique-confidentialite.html)].
 
 ## 11. Modifications
 
